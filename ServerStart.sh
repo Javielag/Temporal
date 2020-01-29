@@ -1,0 +1,1 @@
+java -jar -Xmx4G forge_server.1.15.1-30.0.39.jar nogui

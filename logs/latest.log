@@ -1,56 +1,21 @@
-[00:32:20] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[00:32:20] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[00:32:20] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[00:32:20] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[00:32:20] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[00:32:20] [Server thread/INFO]: Starting minecraft server version 1.15
-[00:32:20] [Server thread/INFO]: Loading properties
-[00:32:20] [Server thread/INFO]: Default game type: SURVIVAL
-[00:32:20] [Server thread/INFO]: Generating keypair
-[00:32:21] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:32:21] [Server thread/INFO]: Using epoll channel type
-[00:32:21] [Server thread/INFO]: Preparing level "world"
-[00:32:22] [Server thread/INFO]: Reloading ResourceManager: Default
-[00:32:42] [Server thread/INFO]: Loaded 6 recipes
-[00:32:43] [Server thread/INFO]: Loaded 825 advancements
-[00:32:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:32:46] [Server thread/INFO]: Preparing spawn area: 0%
-[00:32:46] [Server thread/INFO]: Preparing spawn area: 0%
-[00:32:46] [Server thread/INFO]: Preparing spawn area: 0%
-[00:32:46] [Server thread/INFO]: Preparing spawn area: 0%
-[00:32:46] [Server thread/INFO]: Preparing spawn area: 0%
-[00:32:46] [Server thread/INFO]: Preparing spawn area: 0%
-[00:32:47] [Server thread/INFO]: Preparing spawn area: 0%
-[00:32:52] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[00:32:52] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[00:32:52] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[00:32:52] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[00:32:52] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[00:32:52] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[00:32:52] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[00:32:52] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[00:32:52] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[00:32:52] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[00:32:52] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[00:32:52] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[00:32:53] [Server-Worker-3/INFO]: Preparing spawn area: 83%
-[00:32:53] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[00:32:54] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[00:32:54] [Server-Worker-2/INFO]: Preparing spawn area: 83%
-[00:32:55] [Server-Worker-3/INFO]: Preparing spawn area: 83%
-[00:32:55] [Server-Worker-2/INFO]: Preparing spawn area: 84%
-[00:32:56] [Server-Worker-2/INFO]: Preparing spawn area: 87%
-[00:32:56] [Server-Worker-3/INFO]: Preparing spawn area: 88%
-[00:32:57] [Server-Worker-3/INFO]: Preparing spawn area: 92%
-[00:32:57] [Server thread/INFO]: Preparing spawn area: 98%
-[00:32:58] [Server thread/INFO]: Time elapsed: 14118 ms
-[00:32:58] [Server thread/INFO]: Done (36.227s)! For help, type "help"
-[00:44:04] [User Authenticator #1/INFO]: UUID of player mrsaess is 712108a5-54ab-4f7d-a44b-3faa2d1eb8c4
-[00:44:04] [Server thread/INFO]: mrsaess[/2.153.65.228:52734] logged in with entity id 76 at (66.5, 66.0, 58.5)
-[00:44:04] [Server thread/INFO]: mrsaess joined the game
-[00:44:22] [Server thread/INFO]: mrsaess lost connection: Disconnected
-[00:44:22] [Server thread/INFO]: mrsaess left the game
-[00:48:59] [User Authenticator #2/INFO]: UUID of player mrsaess is 712108a5-54ab-4f7d-a44b-3faa2d1eb8c4
-[00:48:59] [Server thread/INFO]: mrsaess[/2.153.65.228:52831] logged in with entity id 488 at (66.5, 66.0, 58.5)
-[00:48:59] [Server thread/INFO]: mrsaess joined the game
-[00:50:04] [Server thread/INFO]: mrsaess drowned whilst trying to escape Skeleton
+[29ene2020 01:21:39.556] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 29.0.4, --fml.mcpVersion, 20191212.203412, --fml.mcVersion, 1.15, --fml.forgeGroup, net.minecraftforge]
+[29ene2020 01:21:39.570] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 5.0.0-milestone.4+67+b1a340b starting: java version 1.8.0_221 by Oracle Corporation
+[29ene2020 01:21:41.157] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[29ene2020 01:21:41.849] [main/FATAL] [net.minecraftforge.fml.loading.FMLCommonLaunchHandler/CORE]: Failed to find Minecraft resource version 1.15-20191212.203412 at C:\Users\yague\OneDrive\Documentos\GitHub\Temporal\libraries\net\minecraftforge\forge\1.15-29.0.4\forge-1.15-29.0.4-server.jar
+[29ene2020 01:21:41.852] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: java.lang.RuntimeException: Missing minecraft resource!
+[29ene2020 01:21:41.853] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraftforge.fml.loading.FMLCommonLaunchHandler.lambda$validatePaths$4(FMLCommonLaunchHandler.java:124)
+[29ene2020 01:21:41.854] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:948)
+[29ene2020 01:21:41.856] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:580)
+[29ene2020 01:21:41.857] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraftforge.fml.loading.FMLCommonLaunchHandler.validatePaths(FMLCommonLaunchHandler.java:121)
+[29ene2020 01:21:41.863] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraftforge.fml.loading.FMLLoader.setupLaunchHandler(FMLLoader.java:195)
+[29ene2020 01:21:41.864] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraftforge.fml.loading.FMLServiceProvider.initialize(FMLServiceProvider.java:92)
+[29ene2020 01:21:41.865] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at cpw.mods.modlauncher.TransformationServiceDecorator.onInitialize(TransformationServiceDecorator.java:68)
+[29ene2020 01:21:41.867] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at cpw.mods.modlauncher.TransformationServicesHandler.lambda$initialiseTransformationServices$7(TransformationServicesHandler.java:107)
+[29ene2020 01:21:41.868] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.util.HashMap$Values.forEach(HashMap.java:981)
+[29ene2020 01:21:41.869] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at cpw.mods.modlauncher.TransformationServicesHandler.initialiseTransformationServices(TransformationServicesHandler.java:107)
+[29ene2020 01:21:41.870] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at cpw.mods.modlauncher.TransformationServicesHandler.initializeTransformationServices(TransformationServicesHandler.java:59)
+[29ene2020 01:21:41.871] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at cpw.mods.modlauncher.Launcher.run(Launcher.java:75)
+[29ene2020 01:21:41.872] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at cpw.mods.modlauncher.Launcher.main(Launcher.java:65)
+[29ene2020 01:21:41.873] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraftforge.server.ServerMain$Runner.runLauncher(ServerMain.java:63)
+[29ene2020 01:21:41.875] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraftforge.server.ServerMain$Runner.access$100(ServerMain.java:60)
+[29ene2020 01:21:41.876] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraftforge.server.ServerMain.main(ServerMain.java:57)
