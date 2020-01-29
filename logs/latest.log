@@ -1,95 +1,18 @@
-[21:26:44] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[21:26:44] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:26:44] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:26:44] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[21:26:44] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:26:44] [Server thread/INFO]: Starting minecraft server version 1.15.1
-[21:26:44] [Server thread/INFO]: Loading properties
-[21:26:44] [Server thread/INFO]: Default game type: SURVIVAL
-[21:26:44] [Server thread/INFO]: Generating keypair
-[21:26:44] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:26:45] [Server thread/INFO]: Using epoll channel type
-[21:26:45] [Server thread/INFO]: Preparing level "world"
-[21:26:46] [Server thread/INFO]: Reloading ResourceManager: Default
-[21:26:47] [Server thread/INFO]: Loaded 6 recipes
-[21:26:48] [Server thread/INFO]: Loaded 825 advancements
-[21:26:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:26:54] [Server thread/INFO]: Preparing spawn area: 0%
-[21:26:54] [Server thread/INFO]: Preparing spawn area: 0%
-[21:26:54] [Server thread/INFO]: Preparing spawn area: 0%
-[21:26:54] [Server thread/INFO]: Preparing spawn area: 0%
-[21:26:54] [Server thread/INFO]: Preparing spawn area: 0%
-[21:26:54] [Server thread/INFO]: Preparing spawn area: 0%
-[21:26:54] [Server thread/INFO]: Preparing spawn area: 0%
-[21:26:54] [Server thread/INFO]: Preparing spawn area: 0%
-[21:26:54] [Server thread/INFO]: Preparing spawn area: 0%
-[21:27:09] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[21:27:09] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[21:27:09] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[21:27:09] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[21:27:09] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[21:27:09] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[21:27:09] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[21:27:09] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[21:27:09] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[21:27:09] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[21:27:09] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[21:27:09] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[21:27:09] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[21:27:09] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[21:27:09] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[21:27:09] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[21:27:09] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[21:27:09] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[21:27:09] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[21:27:09] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[21:27:09] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[21:27:09] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[21:27:09] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[21:27:09] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[21:27:09] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[21:27:09] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[21:27:09] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[21:27:09] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[21:27:09] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[21:27:09] [Server thread/INFO]: Preparing spawn area: 9%
-[21:27:13] [Server-Worker-3/INFO]: Preparing spawn area: 84%
-[21:27:13] [Server-Worker-3/INFO]: Preparing spawn area: 84%
-[21:27:13] [Server-Worker-3/INFO]: Preparing spawn area: 84%
-[21:27:13] [Server-Worker-3/INFO]: Preparing spawn area: 84%
-[21:27:13] [Server-Worker-3/INFO]: Preparing spawn area: 84%
-[21:27:13] [Server-Worker-3/INFO]: Preparing spawn area: 84%
-[21:27:13] [Server-Worker-3/INFO]: Preparing spawn area: 84%
-[21:27:13] [Server-Worker-1/INFO]: Preparing spawn area: 84%
-[21:27:14] [Server-Worker-1/INFO]: Preparing spawn area: 84%
-[21:27:14] [Server-Worker-1/INFO]: Preparing spawn area: 84%
-[21:27:15] [Server-Worker-3/INFO]: Preparing spawn area: 84%
-[21:27:15] [Server-Worker-2/INFO]: Preparing spawn area: 84%
-[21:27:16] [Server-Worker-1/INFO]: Preparing spawn area: 84%
-[21:27:16] [Server-Worker-1/INFO]: Preparing spawn area: 84%
-[21:27:17] [Server-Worker-1/INFO]: Preparing spawn area: 84%
-[21:27:17] [Server-Worker-3/INFO]: Preparing spawn area: 84%
-[21:27:18] [Server-Worker-3/INFO]: Preparing spawn area: 87%
-[21:27:18] [Server thread/INFO]: Preparing spawn area: 90%
-[21:27:19] [Server-Worker-1/INFO]: Preparing spawn area: 93%
-[21:27:19] [Server-Worker-1/INFO]: Preparing spawn area: 97%
-[21:27:20] [Server thread/INFO]: Time elapsed: 29394 ms
-[21:27:20] [Server thread/INFO]: Done (34.324s)! For help, type "help"
-[21:27:34] [User Authenticator #1/INFO]: UUID of player Osurak is 3b7cac72-0319-4e9c-998b-894d88884964
-[21:27:34] [Server thread/INFO]: Osurak[/88.22.67.1:53623] logged in with entity id 217 at (-244.5, 64.0, -254.5)
-[21:27:34] [Server thread/INFO]: Osurak joined the game
-[21:28:47] [Server thread/INFO]: Osurak drowned
-[21:28:53] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-244, y=62, z=-249}
-[21:29:29] [Server thread/INFO]: Stopping the server
-[21:29:29] [Server thread/INFO]: Stopping server
-[21:29:29] [Server thread/INFO]: Saving players
-[21:29:29] [Server thread/INFO]: Saving worlds
-[21:29:29] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[21:29:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:29:30] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[21:29:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:29:30] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[21:29:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:29:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:29:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:29:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[29ene2020 22:12:14.677] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 30.0.43, --fml.mcpVersion, 20191217.105819, --fml.mcVersion, 1.15.1, --fml.forgeGroup, net.minecraftforge, nogui]
+[29ene2020 22:12:14.692] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 5.0.0-milestone.4+67+b1a340b starting: java version 1.8.0_232 by Oracle Corporation
+[29ene2020 22:12:15.189] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[29ene2020 22:12:15.419] [main/FATAL] [net.minecraftforge.fml.loading.FMLCommonLaunchHandler/CORE]: Failed to find forge version 30.0.43 for MC 1.15.1 at /root/Temporal/libraries/net/minecraftforge/forge/1.15.1-30.0.43/forge-1.15.1-30.0.43-universal.jar
+[29ene2020 22:12:15.424] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: java.lang.RuntimeException: Missing forge!
+[29ene2020 22:12:15.427] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraftforge.fml.loading.FMLCommonLaunchHandler.validatePaths(FMLCommonLaunchHandler.java:118)
+[29ene2020 22:12:15.430] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraftforge.fml.loading.FMLLoader.setupLaunchHandler(FMLLoader.java:195)
+[29ene2020 22:12:15.432] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraftforge.fml.loading.FMLServiceProvider.initialize(FMLServiceProvider.java:92)
+[29ene2020 22:12:15.436] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at cpw.mods.modlauncher.TransformationServiceDecorator.onInitialize(TransformationServiceDecorator.java:68)
+[29ene2020 22:12:15.439] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at cpw.mods.modlauncher.TransformationServicesHandler.lambda$initialiseTransformationServices$7(TransformationServicesHandler.java:107)
+[29ene2020 22:12:15.443] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.util.HashMap$Values.forEach(HashMap.java:981)
+[29ene2020 22:12:15.448] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at cpw.mods.modlauncher.TransformationServicesHandler.initialiseTransformationServices(TransformationServicesHandler.java:107)
+[29ene2020 22:12:15.452] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at cpw.mods.modlauncher.TransformationServicesHandler.initializeTransformationServices(TransformationServicesHandler.java:59)
+[29ene2020 22:12:15.456] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at cpw.mods.modlauncher.Launcher.run(Launcher.java:75)
+[29ene2020 22:12:15.461] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at cpw.mods.modlauncher.Launcher.main(Launcher.java:65)
+[29ene2020 22:12:15.466] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraftforge.server.ServerMain$Runner.runLauncher(ServerMain.java:63)
+[29ene2020 22:12:15.473] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraftforge.server.ServerMain$Runner.access$100(ServerMain.java:60)
+[29ene2020 22:12:15.479] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraftforge.server.ServerMain.main(ServerMain.java:57)

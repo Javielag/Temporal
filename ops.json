@@ -4,5 +4,11 @@
     "name": "mrsaess",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "3b7cac72-0319-4e9c-998b-894d88884964",
+    "name": "Osurak",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
