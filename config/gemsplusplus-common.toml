@@ -1,0 +1,397 @@
+
+#Gems Spawn Chance
+[spawnchance]
+	#malachitenetherore spawn chance
+	#Range: 1 ~ 100
+	malachitenetherorespawnchance = 6
+	#agateore spawn chance
+	#Range: 1 ~ 100
+	oreagatespawnchance = 10
+	#sugilitenetherore spawn chance
+	#Range: 1 ~ 100
+	sugilitenetherorespawnchance = 6
+	#jasperore spawn chance
+	#Range: 1 ~ 100
+	jasperorespawnchance = 10
+	#sapphirenetherore spawn chance
+	#Range: 1 ~ 100
+	sapphirenetherorespawnchance = 6
+	#sugiliteore spawn chance
+	#Range: 1 ~ 100
+	sugiliteorespawnchance = 10
+	#malachiteore spawn chance
+	#Range: 1 ~ 100
+	malachiteorespawnchance = 10
+	#citrinenetherore spawn chance
+	#Range: 1 ~ 100
+	citrinenetherorespawnchance = 6
+	#onyxore spawn chance
+	#Range: 1 ~ 100
+	onyxorespawnchance = 10
+	#tourmalineore spawn chance
+	#Range: 1 ~ 100
+	tourmalineorespawnchance = 10
+	#phoenixitenetherore spawn chance
+	#Range: 1 ~ 100
+	phoenixitenetherorespawnchance = 7
+	#tourmalinenetherore spawn chance
+	#Range: 1 ~ 100
+	tourmalinenetherorespawnchance = 6
+	#phoenixiteore spawn chance
+	#Range: 1 ~ 100
+	phoenixiteorespawnchance = 20
+	#rubyore spawn chance
+	#Range: 1 ~ 100
+	rubyorespawnchance = 10
+	#chrysocollanetherore spawn chance
+	#Range: 1 ~ 100
+	chrysocollanetherorespawnchance = 6
+	#jaspernetherore spawn chance
+	#Range: 1 ~ 100
+	jaspernetherorespawnchance = 6
+	#jadenetherore spawn chance
+	#Range: 1 ~ 100
+	jadenetherorespawnchance = 6
+	#jadeore spawn chance
+	#Range: 1 ~ 100
+	jadeorespawnchance = 10
+	#sapphireore spawn chance
+	#Range: 1 ~ 100
+	sapphireorespawnchance = 10
+	#amethystore spawn chance
+	#Range: 1 ~ 100
+	amethystorespawnchance = 10
+	#topazore spawn chance
+	#Range: 1 ~ 100
+	topazorespawnchance = 10
+	#garnetnetherore spawn chance
+	#Range: 1 ~ 100
+	garnetnetherorespawnchance = 6
+	#rubynetherore spawn chance
+	#Range: 1 ~ 100
+	rubynetherorespawnchance = 6
+	#agatenetherore spawn chance
+	#Range: 1 ~ 100
+	agatenetherorespawnchance = 6
+	#spinelore spawn chance
+	#Range: 1 ~ 100
+	spinelorespawnchance = 10
+	#chrysocollaore spawn chance
+	#Range: 1 ~ 100
+	chrysocollaorespawnchance = 10
+	#amethystnetherore spawn chance
+	#Range: 1 ~ 100
+	amethystnetherorespawnchance = 6
+	#spinelnetherore spawn chance
+	#Range: 1 ~ 100
+	spinelnetherorespawnchance = 6
+	#topaznetherore spawn chance
+	#Range: 1 ~ 100
+	topaznetherorespawnchance = 6
+	#citrineore spawn chance
+	#Range: 1 ~ 100
+	citrineorespawnchance = 10
+	#garnetore spawn chance
+	#Range: 1 ~ 100
+	garnetorespawnchance = 10
+	#onyxnetherore spawn chance
+	#Range: 1 ~ 100
+	onyxnetherorespawnchance = 6
+
+#Gems Vein Size
+[veinsize]
+	#spinel nether ore veinsize
+	#Range: 1 ~ 100
+	"spinel nether ore veinsize" = 3
+	#garnet ore veinsize
+	#Range: 1 ~ 100
+	"garnet ore veinsize" = 3
+	#spinel ore veinsize
+	#Range: 1 ~ 100
+	"spinel ore veinsize" = 3
+	#jasper nether ore veinsize
+	#Range: 1 ~ 100
+	"jasper nether ore veinsize" = 3
+	#agate ore veinsize
+	#Range: 1 ~ 100
+	oreagateveinsize = 3
+	#amethyst ore veinsize
+	#Range: 1 ~ 100
+	"amethyst ore veinsize" = 3
+	#jasper ore veinsize
+	#Range: 1 ~ 100
+	"jasper ore veinsize" = 3
+	#tourmaline ore veinsize
+	#Range: 1 ~ 100
+	"tourmaline ore veinsize" = 3
+	#jade ore veinsize
+	#Range: 1 ~ 100
+	"jade ore veinsize" = 3
+	#sugilite ore veinsize
+	#Range: 1 ~ 100
+	"sugilite ore veinsize" = 3
+	#ruby nether ore veinsize
+	#Range: 1 ~ 100
+	"ruby nether ore veinsize" = 3
+	#tourmaline nether ore veinsize
+	#Range: 1 ~ 100
+	"tourmaline nether ore veinsize" = 3
+	#chrysocolla nether ore veinsize
+	#Range: 1 ~ 100
+	"chrysocolla nether ore veinsize" = 3
+	#jade nether ore veinsize
+	#Range: 1 ~ 100
+	"jade nether ore veinsize" = 3
+	#topaz ore veinsize
+	#Range: 1 ~ 100
+	"topaz ore veinsize" = 3
+	#citrine ore veinsize
+	#Range: 1 ~ 100
+	"citrine ore veinsize" = 3
+	#chrysocolla ore veinsize
+	#Range: 1 ~ 100
+	"chrysocolla ore veinsize" = 3
+	#phoenixite ore veinsize
+	#Range: 1 ~ 100
+	"phoenixite ore veinsize" = 3
+	#phoenixite nether ore veinsize
+	#Range: 1 ~ 100
+	"phoenixite nether ore veinsize" = 3
+	#ruby ore veinsize
+	#Range: 1 ~ 100
+	"ruby ore veinsize" = 3
+	#onyx ore veinsize
+	#Range: 1 ~ 100
+	"onyx ore veinsize" = 3
+	#sapphire nether ore veinsize
+	#Range: 1 ~ 100
+	"sapphire nether ore veinsize" = 3
+	#malachite nether ore veinsize
+	#Range: 1 ~ 100
+	"malachite nether ore veinsize" = 3
+	#sugilite nether ore veinsize
+	#Range: 1 ~ 100
+	"sugilite nether ore veinsize" = 3
+	#citrine nether ore veinsize
+	#Range: 1 ~ 100
+	"citrine nether ore veinsize" = 3
+	#topaz nether ore veinsize
+	#Range: 1 ~ 100
+	"topaz nether ore veinsize" = 3
+	#onyx nether ore veinsize
+	#Range: 1 ~ 100
+	"onyx nether ore veinsize" = 3
+	#garnet nether ore veinsize
+	#Range: 1 ~ 100
+	"garnet nether ore veinsize" = 3
+	#agate nether ore veinsize
+	#Range: 1 ~ 100
+	"agate nether ore veinsize" = 3
+	#malachite ore veinsize
+	#Range: 1 ~ 100
+	"malachite ore veinsize" = 3
+	#sapphire ore veinsize
+	#Range: 1 ~ 100
+	"sapphire ore veinsize" = 3
+	#amethyst nether ore veinsize
+	#Range: 1 ~ 100
+	"amethyst nether ore veinsize" = 3
+
+#Gems Min Spawn Height
+[minheight]
+	#sugilite ore minheight
+	#Range: 1 ~ 100
+	"sugilite ore minheight" = 10
+	#jasper ore minheight
+	#Range: 1 ~ 100
+	"jasper ore minheight" = 10
+	#malachite nether ore minheight
+	#Range: 1 ~ 100
+	"malachite nether ore minheight" = 10
+	#amethyst nether ore minheight
+	#Range: 1 ~ 100
+	"amethyst nether ore minheight" = 10
+	#phoenixite nether ore minheight
+	#Range: 1 ~ 100
+	"phoenixite nether ore minheight" = 5
+	#jade ore minheight
+	#Range: 1 ~ 100
+	"jade ore minheight" = 10
+	#garnet nether ore minheight
+	#Range: 1 ~ 100
+	"garnet nether ore minheight" = 10
+	#tourmaline nether ore minheight
+	#Range: 1 ~ 100
+	tourmalineminheight = 10
+	#agate ore minheight
+	#Range: 1 ~ 100
+	oreagateminheight = 10
+	#topaz nether ore minheight
+	#Range: 1 ~ 100
+	"topaz nether ore minheight" = 10
+	#malachite ore minheight
+	#Range: 1 ~ 100
+	"malachite ore minheight" = 10
+	#sapphire ore minheight
+	#Range: 1 ~ 100
+	"sapphire ore minheight" = 10
+	#citrine ore minheight
+	#Range: 1 ~ 100
+	"citrine ore minheight" = 10
+	#chrysocolla nether ore minheight
+	#Range: 1 ~ 100
+	"chrysocolla nether ore minheight" = 10
+	#sapphire nether ore minheight
+	#Range: 1 ~ 100
+	"sapphire nether ore minheight" = 10
+	#chrysocolla ore minheight
+	#Range: 1 ~ 100
+	"chrysocolla ore minheight" = 10
+	#ruby ore minheight
+	#Range: 1 ~ 100
+	"ruby ore minheight" = 10
+	#amethyst ore minheight
+	#Range: 1 ~ 100
+	"amethyst ore minheight" = 10
+	#spinel ore minheight
+	#Range: 1 ~ 100
+	"spinel ore minheight" = 10
+	#onyx ore minheight
+	#Range: 1 ~ 100
+	"onyx ore minheight" = 10
+	#ruby nether ore minheight
+	#Range: 1 ~ 100
+	"ruby nether ore minheight" = 10
+	#topaz ore minheight
+	#Range: 1 ~ 100
+	"topaz ore minheight" = 10
+	#jasper nether ore minheight
+	#Range: 1 ~ 100
+	"jasper nether ore minheight" = 10
+	#garnet ore minheight
+	#Range: 1 ~ 100
+	"garnet ore minheight" = 10
+	#tourmaline ore minheight
+	#Range: 1 ~ 100
+	"tourmaline ore minheight" = 10
+	#agate nether ore minheight
+	#Range: 1 ~ 100
+	"agate nether ore minheight" = 10
+	#spinel nether ore minheight
+	#Range: 1 ~ 100
+	"spinel nether ore minheight" = 10
+	#citrine nether ore minheight
+	#Range: 1 ~ 100
+	"citrine nether ore minheight" = 10
+	#jade nether ore minheight
+	#Range: 1 ~ 100
+	"jade nether ore minheight" = 10
+	#phoenixite ore minheight
+	#Range: 1 ~ 100
+	"phoenixite ore minheight" = 10
+	#onyx nether ore minheight
+	#Range: 1 ~ 100
+	"onyx nether ore minheight" = 10
+	#sugilite nether ore minheight
+	#Range: 1 ~ 100
+	"sugilite nether ore minheight" = 10
+
+#Gems Max Spawn Height
+[maxheigt]
+	#spinel nether ore maxheight
+	#Range: 1 ~ 256
+	"spinel nether ore maxheight" = 62
+	#spinel ore maxheight
+	#Range: 1 ~ 256
+	"spinel ore maxheight" = 62
+	#onyx nether ore maxheight
+	#Range: 1 ~ 256
+	"onyx nether ore maxheight" = 62
+	#chrysocolla ore maxheight
+	#Range: 1 ~ 256
+	"chrysocolla ore maxheight" = 62
+	#sapphire nether ore maxheight
+	#Range: 1 ~ 256
+	"sapphire nether ore maxheight" = 62
+	#citrine nether ore maxheight
+	#Range: 1 ~ 256
+	"citrine nether ore maxheight" = 62
+	#tourmaline ore maxheight
+	#Range: 1 ~ 256
+	"tourmaline ore maxheight" = 62
+	#chrysocolla nether ore maxheight
+	#Range: 1 ~ 256
+	"chrysocolla nether ore maxheight" = 62
+	#ruby ore maxheight
+	#Range: 1 ~ 256
+	"ruby ore maxheight" = 62
+	#jasper nether ore maxheight
+	#Range: 1 ~ 256
+	"jasper nether ore maxheight" = 62
+	#garnet ore maxheight
+	#Range: 1 ~ 256
+	"garnet ore maxheight" = 62
+	#jade nether ore maxheight
+	#Range: 1 ~ 256
+	"jade nether ore maxheight" = 62
+	#tourmaline nether ore maxheight
+	#Range: 1 ~ 256
+	"tourmaline nether ore maxheight" = 62
+	#topaz nether ore maxheight
+	#Range: 1 ~ 256
+	"topaz nether ore maxheight" = 62
+	#jade ore maxheight
+	#Range: 1 ~ 256
+	"jade ore maxheight" = 62
+	#sapphire ore maxheight
+	#Range: 1 ~ 256
+	"sapphire ore maxheight" = 62
+	#onyx ore maxheight
+	#Range: 1 ~ 256
+	"onyx ore maxheight" = 62
+	#ruby nether ore maxheight
+	#Range: 1 ~ 256
+	"ruby nether ore maxheight" = 62
+	#malachite nether ore maxheight
+	#Range: 1 ~ 256
+	"malachite nether ore maxheight" = 62
+	#sugilite ore maxheight
+	#Range: 1 ~ 256
+	"sugilite ore maxheight" = 62
+	#malachite ore maxheight
+	#Range: 1 ~ 256
+	"malachite ore maxheight" = 62
+	#sugilite nether ore maxheight
+	#Range: 1 ~ 256
+	"sugilite nether ore maxheight" = 62
+	#amethyst nether ore maxheight
+	#Range: 1 ~ 256
+	"amethyst nether ore maxheight" = 62
+	#phoenixite nether ore maxheight
+	#Range: 1 ~ 256
+	"phoenixite nether ore maxheight" = 5
+	#phoenixite ore maxheight
+	#Range: 1 ~ 256
+	"phoenixite ore maxheight" = 62
+	#citrine ore maxheight
+	#Range: 1 ~ 256
+	"citrine ore maxheight" = 62
+	#agate ore maxheight
+	#Range: 1 ~ 256
+	oreagatemaxheight = 65
+	#garnet nether ore maxheight
+	#Range: 1 ~ 256
+	"garnet nether ore maxheight" = 62
+	#topaz ore maxheight
+	#Range: 1 ~ 256
+	"topaz ore maxheight" = 62
+	#agate nether ore maxheight
+	#Range: 1 ~ 256
+	"agate nether ore maxheight" = 62
+	#jasper ore maxheight
+	#Range: 1 ~ 256
+	"jasper ore maxheight" = 62
+	#amethyst ore maxheight
+	#Range: 1 ~ 256
+	"amethyst ore maxheight" = 62
+
