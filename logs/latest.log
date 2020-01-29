@@ -1,95 +1,95 @@
-[00:32:20] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[00:32:20] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[00:32:20] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[00:32:20] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[00:32:20] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[00:32:20] [Server thread/INFO]: Starting minecraft server version 1.15
-[00:32:20] [Server thread/INFO]: Loading properties
-[00:32:20] [Server thread/INFO]: Default game type: SURVIVAL
-[00:32:20] [Server thread/INFO]: Generating keypair
-[00:32:21] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:32:21] [Server thread/INFO]: Using epoll channel type
-[00:32:21] [Server thread/INFO]: Preparing level "world"
-[00:32:22] [Server thread/INFO]: Reloading ResourceManager: Default
-[00:32:42] [Server thread/INFO]: Loaded 6 recipes
-[00:32:43] [Server thread/INFO]: Loaded 825 advancements
-[00:32:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:32:46] [Server thread/INFO]: Preparing spawn area: 0%
-[00:32:46] [Server thread/INFO]: Preparing spawn area: 0%
-[00:32:46] [Server thread/INFO]: Preparing spawn area: 0%
-[00:32:46] [Server thread/INFO]: Preparing spawn area: 0%
-[00:32:46] [Server thread/INFO]: Preparing spawn area: 0%
-[00:32:46] [Server thread/INFO]: Preparing spawn area: 0%
-[00:32:47] [Server thread/INFO]: Preparing spawn area: 0%
-[00:32:52] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[00:32:52] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[00:32:52] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[00:32:52] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[00:32:52] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[00:32:52] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[00:32:52] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[00:32:52] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[00:32:52] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[00:32:52] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[00:32:52] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[00:32:52] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[00:32:53] [Server-Worker-3/INFO]: Preparing spawn area: 83%
-[00:32:53] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[00:32:54] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[00:32:54] [Server-Worker-2/INFO]: Preparing spawn area: 83%
-[00:32:55] [Server-Worker-3/INFO]: Preparing spawn area: 83%
-[00:32:55] [Server-Worker-2/INFO]: Preparing spawn area: 84%
-[00:32:56] [Server-Worker-2/INFO]: Preparing spawn area: 87%
-[00:32:56] [Server-Worker-3/INFO]: Preparing spawn area: 88%
-[00:32:57] [Server-Worker-3/INFO]: Preparing spawn area: 92%
-[00:32:57] [Server thread/INFO]: Preparing spawn area: 98%
-[00:32:58] [Server thread/INFO]: Time elapsed: 14118 ms
-[00:32:58] [Server thread/INFO]: Done (36.227s)! For help, type "help"
-[00:44:04] [User Authenticator #1/INFO]: UUID of player mrsaess is 712108a5-54ab-4f7d-a44b-3faa2d1eb8c4
-[00:44:04] [Server thread/INFO]: mrsaess[/2.153.65.228:52734] logged in with entity id 76 at (66.5, 66.0, 58.5)
-[00:44:04] [Server thread/INFO]: mrsaess joined the game
-[00:44:22] [Server thread/INFO]: mrsaess lost connection: Disconnected
-[00:44:22] [Server thread/INFO]: mrsaess left the game
-[00:48:59] [User Authenticator #2/INFO]: UUID of player mrsaess is 712108a5-54ab-4f7d-a44b-3faa2d1eb8c4
-[00:48:59] [Server thread/INFO]: mrsaess[/2.153.65.228:52831] logged in with entity id 488 at (66.5, 66.0, 58.5)
-[00:48:59] [Server thread/INFO]: mrsaess joined the game
-[00:50:04] [Server thread/INFO]: mrsaess drowned whilst trying to escape Skeleton
-[00:53:10] [User Authenticator #3/INFO]: UUID of player Osurak is 3b7cac72-0319-4e9c-998b-894d88884964
-[00:53:10] [Server thread/INFO]: Osurak[/88.22.67.1:54478] logged in with entity id 655 at (55.5, 66.0, 68.5)
-[00:53:10] [Server thread/INFO]: Osurak joined the game
-[00:53:25] [Server thread/INFO]: <Osurak> holiwi
-[00:57:13] [Server thread/INFO]: Osurak lost connection: Disconnected
-[00:57:13] [Server thread/INFO]: Osurak left the game
-[01:03:19] [User Authenticator #4/INFO]: UUID of player Osurak is 3b7cac72-0319-4e9c-998b-894d88884964
-[01:03:19] [Server thread/INFO]: Osurak[/88.22.67.1:54750] logged in with entity id 1779 at (201.0926627826601, 72.0, 133.4992564560486)
-[01:03:19] [Server thread/INFO]: Osurak joined the game
-[01:04:59] [Server thread/INFO]: Unknown command
-[01:04:59] [Server thread/INFO]: opoppopopo<--[HERE]
-[01:04:59] [Server thread/INFO]: Unknown command
-[01:04:59] [Server thread/INFO]: <--[HERE]
-[01:04:59] [Server thread/INFO]: Unknown command
-[01:04:59] [Server thread/INFO]: <--[HERE]
-[01:04:59] [Server thread/INFO]: Unknown command
-[01:04:59] [Server thread/INFO]: <--[HERE]
-[01:05:00] [Server thread/INFO]: Unknown command
-[01:05:00] [Server thread/INFO]: <--[HERE]
-[01:08:13] [Server thread/INFO]: Made mrsaess a server operator
-[01:09:06] [Server thread/INFO]: [mrsaess: Set own game mode to Creative Mode]
-[01:09:48] [Server thread/INFO]: mrsaess lost connection: Disconnected
-[01:09:48] [Server thread/INFO]: mrsaess left the game
-[01:18:06] [Server thread/INFO]: Osurak lost connection: Disconnected
-[01:18:06] [Server thread/INFO]: Osurak left the game
-[01:34:20] [Server console handler/ERROR]: Exception handling console input
-java.io.IOException: Error de entrada/salida
-	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_232]
-	at java.io.FileInputStream.read(FileInputStream.java:255) ~[?:1.8.0_232]
-	at java.io.BufferedInputStream.read1(BufferedInputStream.java:284) ~[?:1.8.0_232]
-	at java.io.BufferedInputStream.read(BufferedInputStream.java:345) ~[?:1.8.0_232]
-	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284) ~[?:1.8.0_232]
-	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326) ~[?:1.8.0_232]
-	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178) ~[?:1.8.0_232]
-	at java.io.InputStreamReader.read(InputStreamReader.java:184) ~[?:1.8.0_232]
-	at java.io.BufferedReader.fill(BufferedReader.java:161) ~[?:1.8.0_232]
-	at java.io.BufferedReader.readLine(BufferedReader.java:324) ~[?:1.8.0_232]
-	at java.io.BufferedReader.readLine(BufferedReader.java:389) ~[?:1.8.0_232]
-	at wd$2.run(SourceFile:109) [minecraft_server.1.15.jar:?]
+[21:26:44] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:26:44] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:26:44] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:26:44] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:26:44] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:26:44] [Server thread/INFO]: Starting minecraft server version 1.15.1
+[21:26:44] [Server thread/INFO]: Loading properties
+[21:26:44] [Server thread/INFO]: Default game type: SURVIVAL
+[21:26:44] [Server thread/INFO]: Generating keypair
+[21:26:44] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:26:45] [Server thread/INFO]: Using epoll channel type
+[21:26:45] [Server thread/INFO]: Preparing level "world"
+[21:26:46] [Server thread/INFO]: Reloading ResourceManager: Default
+[21:26:47] [Server thread/INFO]: Loaded 6 recipes
+[21:26:48] [Server thread/INFO]: Loaded 825 advancements
+[21:26:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:26:54] [Server thread/INFO]: Preparing spawn area: 0%
+[21:26:54] [Server thread/INFO]: Preparing spawn area: 0%
+[21:26:54] [Server thread/INFO]: Preparing spawn area: 0%
+[21:26:54] [Server thread/INFO]: Preparing spawn area: 0%
+[21:26:54] [Server thread/INFO]: Preparing spawn area: 0%
+[21:26:54] [Server thread/INFO]: Preparing spawn area: 0%
+[21:26:54] [Server thread/INFO]: Preparing spawn area: 0%
+[21:26:54] [Server thread/INFO]: Preparing spawn area: 0%
+[21:26:54] [Server thread/INFO]: Preparing spawn area: 0%
+[21:27:09] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[21:27:09] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:27:09] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:27:09] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:27:09] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:27:09] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:27:09] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[21:27:09] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:27:09] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:27:09] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:27:09] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:27:09] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:27:09] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:27:09] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:27:09] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:27:09] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:27:09] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:27:09] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[21:27:09] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[21:27:09] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[21:27:09] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[21:27:09] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[21:27:09] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[21:27:09] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[21:27:09] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[21:27:09] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[21:27:09] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[21:27:09] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:27:09] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[21:27:09] [Server thread/INFO]: Preparing spawn area: 9%
+[21:27:13] [Server-Worker-3/INFO]: Preparing spawn area: 84%
+[21:27:13] [Server-Worker-3/INFO]: Preparing spawn area: 84%
+[21:27:13] [Server-Worker-3/INFO]: Preparing spawn area: 84%
+[21:27:13] [Server-Worker-3/INFO]: Preparing spawn area: 84%
+[21:27:13] [Server-Worker-3/INFO]: Preparing spawn area: 84%
+[21:27:13] [Server-Worker-3/INFO]: Preparing spawn area: 84%
+[21:27:13] [Server-Worker-3/INFO]: Preparing spawn area: 84%
+[21:27:13] [Server-Worker-1/INFO]: Preparing spawn area: 84%
+[21:27:14] [Server-Worker-1/INFO]: Preparing spawn area: 84%
+[21:27:14] [Server-Worker-1/INFO]: Preparing spawn area: 84%
+[21:27:15] [Server-Worker-3/INFO]: Preparing spawn area: 84%
+[21:27:15] [Server-Worker-2/INFO]: Preparing spawn area: 84%
+[21:27:16] [Server-Worker-1/INFO]: Preparing spawn area: 84%
+[21:27:16] [Server-Worker-1/INFO]: Preparing spawn area: 84%
+[21:27:17] [Server-Worker-1/INFO]: Preparing spawn area: 84%
+[21:27:17] [Server-Worker-3/INFO]: Preparing spawn area: 84%
+[21:27:18] [Server-Worker-3/INFO]: Preparing spawn area: 87%
+[21:27:18] [Server thread/INFO]: Preparing spawn area: 90%
+[21:27:19] [Server-Worker-1/INFO]: Preparing spawn area: 93%
+[21:27:19] [Server-Worker-1/INFO]: Preparing spawn area: 97%
+[21:27:20] [Server thread/INFO]: Time elapsed: 29394 ms
+[21:27:20] [Server thread/INFO]: Done (34.324s)! For help, type "help"
+[21:27:34] [User Authenticator #1/INFO]: UUID of player Osurak is 3b7cac72-0319-4e9c-998b-894d88884964
+[21:27:34] [Server thread/INFO]: Osurak[/88.22.67.1:53623] logged in with entity id 217 at (-244.5, 64.0, -254.5)
+[21:27:34] [Server thread/INFO]: Osurak joined the game
+[21:28:47] [Server thread/INFO]: Osurak drowned
+[21:28:53] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-244, y=62, z=-249}
+[21:29:29] [Server thread/INFO]: Stopping the server
+[21:29:29] [Server thread/INFO]: Stopping server
+[21:29:29] [Server thread/INFO]: Saving players
+[21:29:29] [Server thread/INFO]: Saving worlds
+[21:29:29] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[21:29:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:29:30] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[21:29:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:29:30] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[21:29:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:29:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:29:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:29:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
